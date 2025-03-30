@@ -8,7 +8,7 @@ This project involves developing a modern data warehouse that consolidates sales
 
 # Project Requirements
 
-# Building the Data Warehouse 
+## Building the Data Warehouse 
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
