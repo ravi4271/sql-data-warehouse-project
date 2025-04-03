@@ -37,9 +37,11 @@ Specifications
 * Scope: Focus on the latest dataset only; historization of data is not required.
 * Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+![starschema](docs/datamodels.png)
+
 #  Business Intelligence (BI): Analytics & Reporting
 
-![starschema](docs/datamodels.png)
+
 Objective:
 Develop SQL-based analytics to provide detailed insights and actionable business metrics.
 
